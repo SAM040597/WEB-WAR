@@ -3,7 +3,7 @@
 <title>THIS IS MY WEB WAR FILE</title>
 </head>
 <body>
-	<h1>Hello World!</h1>
+	<h1>THIS IS MY WEB WAR FILE</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
