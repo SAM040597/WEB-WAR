@@ -4,7 +4,6 @@
 </head>
 <body>
 	<h1>THIS IS MY WEB WAR FILE</h1>
-everthing is ok now i am getting the output. 
-.)
 NEEDS TO BE UPDATE MY SELF CONTINUOSLY....... :)
+YOURR WEBSITE IS ALL OK
 </body>
