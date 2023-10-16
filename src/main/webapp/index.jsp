@@ -3,7 +3,7 @@
 <title>THIS IS MY WEB WAR FILE</title>
 </head>
 <body>
-	<h1>THIS IS MY WEB WAR FILE</h1> THAT'S IT FOR TODAY
+	<h1>THIS IS MY WEB WAR FILE</h1>
 everthing is ok now i am getting the output. 
 .)
 NEEDS TO BE UPDATE MY SELF CONTINUOSLY....... :)
